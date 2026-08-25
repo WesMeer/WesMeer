@@ -42,7 +42,7 @@
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=WesMeer&theme=tokyonight&size=compact" alt="GitHub Stats Card" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=WesMeer&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img src="https://ghstats.dev/api/langs?username=WesMeer&theme=tokyonight&layout=grid" alt="Top Languages" />
 </p>
 
 ### 📈 Contribution Graph
