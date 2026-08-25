@@ -48,7 +48,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=WesMeer&days=30&width=320&height=80&hide_border=true" alt="Contribution Sparkline" />
+  <img src="https://ghstats.dev/api/sparkline?username=WesMeer&days=90&width=640&height=160&hide_border=true" alt="Contribution Sparkline" />
 </p>
 
 ### 💭 Dev Quote
