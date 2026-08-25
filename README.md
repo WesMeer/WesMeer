@@ -40,7 +40,7 @@
 
 ### 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://ghstats.dev/api/langs?username=WesMeer&hide_border=true&max_langs=3&layout=donut" alt="Top Languages" />
   <img src="https://ghstats.dev/api/card?username=WesMeer&hide_border=true&size=compact" alt="GitHub Stats Card" />
 </p>
