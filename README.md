@@ -41,8 +41,8 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://ghstats.dev/api/card?username=WesMeer&hide_border=true&size=compact" alt="GitHub Stats Card" />
   <img src="https://ghstats.dev/api/langs?username=WesMeer&hide_border=true&max_langs=3&layout=donut_vertical" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/card?username=WesMeer&hide_border=true&size=compact" alt="GitHub Stats Card" />
 </p>
 
 ### 📈 Contribution Graph
