@@ -34,6 +34,7 @@
   <a href="https://youtube.com/@WesMeer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://instagram.com/WesMeer11" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://tiktok.com/@WesMeer11" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+    <a href="https://discord.gg/WjTBmN59wr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-3776AB?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://wesmeer.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
