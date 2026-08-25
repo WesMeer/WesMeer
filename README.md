@@ -41,8 +41,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=WesMeer&theme=tokyonight&size=compact" alt="GitHub Stats Card" /><br>
-  <img src="https://ghstats.dev/api/langs?username=WesMeer&theme=tokyonight&layout=grid" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/card?username=WesMeer&theme=tokyonight&size=compact" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/langs?username=WesMeer&hide_border=true&max_langs=3&layout=donut_vertical" alt="Top Languages" />
 </p>
 
 ### 📈 Contribution Graph
