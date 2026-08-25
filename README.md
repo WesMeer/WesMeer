@@ -41,7 +41,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=WesMeer&theme=tokyonight&size=compact" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/card?username=WesMeer&hide_border=true&size=compact" alt="GitHub Stats Card" />
   <img src="https://ghstats.dev/api/langs?username=WesMeer&hide_border=true&max_langs=3&layout=donut_vertical" alt="Top Languages" />
 </p>
 
