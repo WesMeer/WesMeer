@@ -16,7 +16,7 @@
 
 😄 &nbsp;Pronouns: **He/Him**
 
-### 🛠️ Tech Stack
+### 🛠️ Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 🔗 Connect With Me
+### 🔗 Socials
 
 <p align="left">
   <a href="https://youtube.com/@WesMeer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -58,4 +58,4 @@
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/WesMeer">WesMeer</a></i></p>
+<p align="center"><i>❤️ from <a href="https://github.com/WesMeer">WesMeer</a></i></p>
